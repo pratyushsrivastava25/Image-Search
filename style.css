@@ -4,6 +4,7 @@ body {
     background: linear-gradient(to left bottom, lightblue, lightpink, lightblue);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
   }
 
 h1 {
