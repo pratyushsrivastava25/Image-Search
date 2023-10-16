@@ -4,7 +4,7 @@ body {
     background: linear-gradient(to left bottom, lightblue, lightpink, lightblue);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 100%;
   }
 
 h1 {
@@ -83,6 +83,7 @@ form {
   color: #333;
   text-decoration: none;
   transition: background-color 0.3s ease-in-out;
+  height: 100%;
 }
 
 .search-result:hover a {
